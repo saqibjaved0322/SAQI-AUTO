@@ -1,5 +1,5 @@
 import os, platform, time, sys
-os.system('xdg-open https://chat.whatsapp.com/LDKdovG09Ob2Ai0prMXtCG')')')
+os.system('xdg-open https://chat.whatsapp.com/LDKdovG09Ob2Ai0prMXtCG')
 try:
  import requests
 except:os.system("pip uninstall requests -y;pip install requests")
