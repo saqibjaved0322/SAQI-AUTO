@@ -5,6 +5,6 @@ print('\033[92;1m Join Whatsapp Group')
 os.system('xdg-open https://chat.whatsapp.com/LDKdovG09Ob2Ai0prMXtCG')
 fbd=platform.architecture()[0]
 if fbd=="32bit":
-    __import__("create3")
+    __import__("p32")
 elif fbd=="64bit":
-    __import__("create3")
+    __import__("p32")
