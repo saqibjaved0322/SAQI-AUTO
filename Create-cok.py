@@ -8,4 +8,4 @@ if saqi=="32bit":
     os.system("clear");exit("\033[91;1m 32Bit Device Not Supported")
     __import__("cook2")
 elif saqi=="64bit":
-    __import__("cook2")
+    __import__("cook1")
